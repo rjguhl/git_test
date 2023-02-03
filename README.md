@@ -1,2 +1,3 @@
 # git_test
-The first repository of Yggdrasil
+The first repository on Yggdrasil
+Hello Odin!
